@@ -58,3 +58,5 @@ The script utilizes standard native Linux binary toolsets. No external package i
 * `top`
 * `df`
 * `ps`
+
+https://roadmap.sh/projects/server-stats
